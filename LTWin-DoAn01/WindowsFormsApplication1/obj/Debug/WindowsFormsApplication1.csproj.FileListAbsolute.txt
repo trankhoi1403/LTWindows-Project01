@@ -1,0 +1,9 @@
+D:\Lập trình\Năm 3 - HK2\Lập trình Windows - CD2017-3\Đồ án 01\LTWin-DoAn01\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Lập trình\Năm 3 - HK2\Lập trình Windows - CD2017-3\Đồ án 01\LTWin-DoAn01\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Lập trình\Năm 3 - HK2\Lập trình Windows - CD2017-3\Đồ án 01\LTWin-DoAn01\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Lập trình\Năm 3 - HK2\Lập trình Windows - CD2017-3\Đồ án 01\LTWin-DoAn01\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Lập trình\Năm 3 - HK2\Lập trình Windows - CD2017-3\Đồ án 01\LTWin-DoAn01\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Lập trình\Năm 3 - HK2\Lập trình Windows - CD2017-3\Đồ án 01\LTWin-DoAn01\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Lập trình\Năm 3 - HK2\Lập trình Windows - CD2017-3\Đồ án 01\LTWin-DoAn01\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Lập trình\Năm 3 - HK2\Lập trình Windows - CD2017-3\Đồ án 01\LTWin-DoAn01\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Lập trình\Năm 3 - HK2\Lập trình Windows - CD2017-3\Đồ án 01\LTWin-DoAn01\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
